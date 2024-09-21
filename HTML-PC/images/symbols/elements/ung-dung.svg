@@ -1,0 +1,11 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="main-header__initiatives-grid-icon icon-grid" width="20"  height="20" >
+  <rect x="1" y="1" width="4" height="4" rx="2" fill="#412C26" class="icon-fill"></rect>
+  <rect x="1" y="8" width="4" height="4" rx="2" fill="#412C26" class="icon-fill"></rect>
+  <rect x="1" y="15" width="4" height="4" rx="2" fill="#412C26" class="icon-fill"></rect>
+  <rect x="8" y="1" width="4" height="4" rx="2" fill="#412C26" class="icon-fill"></rect>
+  <rect x="8" y="8" width="4" height="4" rx="2" fill="#412C26" class="icon-fill"></rect>
+  <rect x="8" y="15" width="4" height="4" rx="2" fill="#412C26" class="icon-fill"></rect>
+  <rect x="15" y="1" width="4" height="4" rx="2" fill="#412C26" class="icon-fill"></rect>
+  <rect x="15" y="8" width="4" height="4" rx="2" fill="#412C26" class="icon-fill"></rect>
+  <rect x="15" y="15" width="4" height="4" rx="2" fill="#412C26" class="icon-fill"></rect>
+</svg>
