@@ -126,5 +126,8 @@
         backToTop();
         onCLick();
         slideSwiper();
+        $('.album').lightGallery({
+            selector: '.itemt'
+        });
     });
 })(jQuery);
